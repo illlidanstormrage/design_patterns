@@ -94,7 +94,27 @@ public class HungrySingleton {
 ![](multitcm_structure.png)
 
 ```java
-class Multiton{
-    
+class Multiton {
+    private static final ArrayList<Multiton> list = new ArrayList<>();
+    private static final int size = 2;
+
+    static {
+        for(int i=0; i<size; i++){
+            list.add(new Multiton());
+        }
+    }
+
+    // private构造函数防止外部构建
+    private Multiton(){}
+
+    public static synchronized Multiton getInstance(){
+        Random random = new Random();
+        int current = random.nextInt(size);
+        return list.get(current);
+    }
+
+    public static synchronized Multiton getInstance(int index) {
+        return list.get(index);
+    }
 }
 ```

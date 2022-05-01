@@ -4,27 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607bfe23-74b1-4348-a93d-5fc3c72bfd05" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design_pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/UML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/conclution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/MonkeyKing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/PrototypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/prototype.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/Multiton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/multitcm_structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/president.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/singleton.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/structure.jpg" afterDir="false" />
+    <list default="true" id="607bfe23-74b1-4348-a93d-5fc3c72bfd05" name="变更" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/lib/annotations-20.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/abstract_factory/FarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/abstract_factory/FarmTestConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/builder/ParlourDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/builder/ParlourDecorator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/builder/ParlourDecoratorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/builder/builder.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/builder/builder_structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/AnimalFarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/AnimalFarmTestConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/abstract_factory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/abstract_factory_example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/factory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/factory_method.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/factory_method_example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/factory_method/simple_factory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/PlaneFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/example2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creation_patterns/conclution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/creation_patterns/conclution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creation_patterns/prototype/MonkeyKing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/MonkeyKing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creation_patterns/prototype/prototype.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/creation_patterns/prototype/prototype.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creation_patterns/singleton/Multiton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/MultitonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creation_patterns/singleton/singleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/creation_patterns/singleton/singleton.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +61,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/54008/Desktop/design_pattern/images/singleton_structure.jpg",
+    "last_opened_file_path": "C:/Users/54008/Desktop/design_pattern/src/creation_patterns/builder",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,13 +78,31 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\54008\Desktop\design_pattern\src\creation_patterns\builder" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\54008\Desktop\design_pattern\src\creation_patterns\abstract_factory" />
+      <recent name="C:\Users\54008\Desktop\design_pattern\src\creation_patterns\factory_method" />
       <recent name="C:\Users\54008\Desktop\design_pattern\src\singleleton" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.PrototypeTest">
-    <configuration name="PrototypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creation_patterns.prototype.PrototypeTest" />
+  <component name="RunManager" selected="应用程序.ParlourDecorator">
+    <configuration name="FarmTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creation_patterns.abstract_factory.FarmTest" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creation_patterns.abstract_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonkeyKing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creation_patterns.prototype.MonkeyKing" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +114,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="creation_patterns.prototype.singleleton.SingletonLazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creation_patterns.prototype.singleleton.SingletonLazy" />
+    <configuration name="ParlourDecorator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creation_patterns.builder.ParlourDecorator" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creation_patterns.prototype.singleleton.*" />
+          <option name="PATTERN" value="creation_patterns.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaneFigure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creation_patterns.prototype.PlaneFigure" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creation_patterns.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="creation_patterns.factory_method.AnimalFarmTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creation_patterns.factory_method.AnimalFarmTest" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creation_patterns.abstract_factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.PrototypeTest" />
-        <item itemvalue="应用程序.creation_patterns.prototype.singleleton.SingletonLazy" />
+        <item itemvalue="应用程序.ParlourDecorator" />
+        <item itemvalue="应用程序.FarmTest" />
+        <item itemvalue="应用程序.creation_patterns.factory_method.AnimalFarmTest" />
+        <item itemvalue="应用程序.PlaneFigure" />
+        <item itemvalue="应用程序.MonkeyKing" />
       </list>
     </recent_temporary>
   </component>
@@ -114,8 +171,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651202741913</updated>
-      <workItem from="1651202744482" duration="15229000" />
+      <workItem from="1651202744482" duration="44490000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1651238452026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651238452026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +199,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/creation_patterns/builder/ParlourDecorator.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
