@@ -4,48 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607bfe23-74b1-4348-a93d-5fc3c72bfd05" name="变更" comment="creation_patterns complete">
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/adapter/MotorAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/adapter/adapter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/adapter/adapter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/adapter/adapter_like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/adapter/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/adapter/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/adapter/two_way_adapter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/bridge/BagManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/bridge/bridge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/bridge/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/bridge/example_bank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/bridge/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/composite/ShoppingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/composite/composite.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/composite/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/composite/implement.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/composite/safe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/composite/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/composite/transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/conclusion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/decorator/Morrigan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/decorator/Morrigan0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/decorator/Morrigan1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/decorator/Morrigan2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/decorator/MorriganAensland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/decorator/decorator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/decorator/decorator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/facade/abstract_facade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/facade/facade.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/facade/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/fly_weight/WeiQi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/fly_weight/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/fly_weight/flyweight.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/fly_weight/structuer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/proxy/SpringAOP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/proxy/WuyuanSpecialty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/proxy/WySpecialtyProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/proxy/WySpecialtyProxy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/proxy/proxy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural_patterns/proxy/proxy_structure.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="607bfe23-74b1-4348-a93d-5fc3c72bfd05" name="变更" comment="structural_patterns complete">
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/LeaveApprovalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/chain_of_responsibility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/BreakfastTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/command.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/extend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/conclusion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/interpreter/interpreter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/PictureIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/extend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/iterator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/卧龙谷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/彩虹桥.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/思溪延村.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/晓起村.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/李坑.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/江湾.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/篁岭.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/菊径村.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/extend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/mediator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/extend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/memento.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/四大美女.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/杨玉环.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/王昭君.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/空白.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/西施.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/貂蝉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/BellEventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/CrudeOilFutures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/observer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/oil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/ScoreStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/extend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/state.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/thread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/BraisedCrabs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/CrabCookingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/CrabCookingStrategy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/SteamedCrabs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/strategy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/StudyAbroadProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/VisitorProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/extend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/visitor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/朱熹铜像.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/纸币.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/讲学图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/铜币.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -86,7 +115,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/54008/Desktop/design_pattern/src/structural_patterns/Decorator",
+    "last_opened_file_path": "C:/Users/54008/Desktop/design_pattern/src/behavior_pattern/memento",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,8 +125,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\54008\Desktop\design_pattern\src\behavior_pattern\memento" />
+      <recent name="C:\Users\54008\Desktop\design_pattern\src\behavior_pattern\visitor" />
+      <recent name="C:\Users\54008\Desktop\design_pattern\src\behavior_pattern\iterator" />
+      <recent name="C:\Users\54008\Desktop\design_pattern\src\behavior_pattern\strategy" />
       <recent name="C:\Users\54008\Desktop\design_pattern\src\structural_patterns\Decorator" />
-      <recent name="C:\Users\54008\Desktop\design_pattern\src\creation_patterns\builder" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\54008\Desktop\design_pattern\src\structural_patterns\adapter" />
@@ -107,13 +139,13 @@
       <recent name="C:\Users\54008\Desktop\design_pattern\src\singleleton" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ShoppingTest">
-    <configuration name="BagManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural_patterns.bridge.BagManage" />
+  <component name="RunManager" selected="应用程序.BreakfastTest">
+    <configuration name="BreakfastTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_pattern.command.BreakfastTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structural_patterns.bridge.*" />
+          <option name="PATTERN" value="behavior_pattern.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural_patterns.adapter.MotorAdapterTest" />
+    <configuration name="ShoppingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural_patterns.composite.ShoppingTest" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structural_patterns.adapter.*" />
+          <option name="PATTERN" value="structural_patterns.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural_patterns.composite.ShoppingTest" />
+    <configuration name="StudyAbroadProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_pattern.template.StudyAbroadProcess" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structural_patterns.composite.*" />
+          <option name="PATTERN" value="behavior_pattern.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.BreakfastTest" />
+        <item itemvalue="应用程序.StudyAbroadProcess" />
         <item itemvalue="应用程序.ShoppingTest" />
         <item itemvalue="应用程序.WeiQi" />
         <item itemvalue="应用程序.MorriganAensland" />
-        <item itemvalue="应用程序.BagManage" />
-        <item itemvalue="应用程序.MotorAdapterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +224,8 @@
       <option name="presentableId" value="Default" />
       <updated>1651202741913</updated>
       <workItem from="1651202744482" duration="50789000" />
-      <workItem from="1651715354491" duration="33931000" />
+      <workItem from="1651715354491" duration="54360000" />
+      <workItem from="1652096686322" duration="10368000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1651238452026</created>
@@ -208,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651397631856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="structural_patterns complete">
+      <created>1651977070227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651977070227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +269,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="creation_patterns complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="creation_patterns complete" />
+    <MESSAGE value="structural_patterns complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="structural_patterns complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
