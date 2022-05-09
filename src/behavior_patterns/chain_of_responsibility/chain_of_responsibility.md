@@ -113,7 +113,7 @@ class ConcreteHandler2 extends Handler {
 
 ![img.png](example.png)
 
-在例子在 _LeaveApprovalTest.java_ 中实现
+在例子在 _[LeaveApprovalTest.java](LeaveApprovalTest.java)_ 中实现
 
 ## 模式的应用长江
 

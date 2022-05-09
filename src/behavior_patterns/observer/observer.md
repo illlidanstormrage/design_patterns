@@ -102,7 +102,7 @@ class ConcreteObserver2 implements Observer {
 
 ![img.png](ring.png)
 
-该实例在 _BellEventTest.java_ 中实现
+该实例在 _[BellEventTest.java](BellEventTest.java)_ 中实现
 
 ## 模式的应用场景
 

@@ -4,77 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607bfe23-74b1-4348-a93d-5fc3c72bfd05" name="变更" comment="structural_patterns complete">
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/LeaveApprovalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/chain_of_responsibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/client.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/chain_of_responsibility/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/BreakfastTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/command.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/extend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/command/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/conclusion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/interpreter/interpreter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/PictureIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/extend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/iterator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/卧龙谷.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/彩虹桥.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/思溪延村.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/晓起村.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/李坑.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/江湾.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/篁岭.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/iterator/菊径村.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/extend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/mediator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/mediator/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/extend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/memento.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/四大美女.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/杨玉环.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/王昭君.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/空白.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/西施.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/memento/貂蝉.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/BellEventTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/CrudeOilFutures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/observer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/oil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/ring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/observer/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/ScoreStateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/extend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/state.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/state/thread.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/BraisedCrabs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/CrabCookingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/CrabCookingStrategy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/SteamedCrabs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/strategy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/strategy/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/StudyAbroadProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/template/template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/VisitorProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/extend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/visitor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/朱熹铜像.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/纸币.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/讲学图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavior_pattern/visitor/铜币.jpg" afterDir="false" />
+    <list default="true" id="607bfe23-74b1-4348-a93d-5fc3c72bfd05" name="变更" comment="example implements left">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -225,7 +155,7 @@
       <updated>1651202741913</updated>
       <workItem from="1651202744482" duration="50789000" />
       <workItem from="1651715354491" duration="54360000" />
-      <workItem from="1652096686322" duration="10368000" />
+      <workItem from="1652096686322" duration="11215000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1651238452026</created>
@@ -248,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651977070227</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="example implements left">
+      <created>1652110300505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110300505</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +207,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="creation_patterns complete" />
     <MESSAGE value="structural_patterns complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="structural_patterns complete" />
+    <MESSAGE value="example implements left" />
+    <option name="LAST_COMMIT_MESSAGE" value="example implements left" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

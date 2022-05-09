@@ -93,7 +93,7 @@ class Caretaker {
 
 ![img.png](example.png)
 
-该实例在 _DatingGame.java_ 中实现
+该实例在 _[DatingGame.java](DatingGame.java)_ 中实现
 
 ## 模式的应用场景
 

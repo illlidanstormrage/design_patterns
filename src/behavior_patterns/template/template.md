@@ -91,6 +91,6 @@ class ConcreteClass extends AbstractClass {
 
 ![](example.png)
 
-该例子在 _StudyAbroadProcess.java_ 中实现
+该例子在 _[StudyAbroadProcess.java](StudyAbroadProcess.java)_ 中实现
 
 

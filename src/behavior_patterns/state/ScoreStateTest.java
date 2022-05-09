@@ -1,4 +1,4 @@
-package behavior_pattern.state;
+package behavior_patterns.state;
 
 public class ScoreStateTest {
 }

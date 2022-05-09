@@ -79,7 +79,7 @@ class RefinedAbstraction extends Abstraction {
 
 ![img.png](example.png)
 
-该示例在 _BagManage.java_ 中实现
+该示例在 _[BagManage.java](BagManage.java)_ 中实现
 
 ## 桥接模式的应用场景
 

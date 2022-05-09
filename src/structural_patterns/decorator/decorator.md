@@ -94,7 +94,7 @@ class ConcreteDecorator extends Decorator {
 
 ![](Morrigan.png)
 
-该示例在 _MorriganAensland.java_ 中实现
+该示例在 _[MorriganAensland.java](MorriganAensland.java)_ 中实现
 
 ## 装饰器模式的应用场景
 

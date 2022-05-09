@@ -122,7 +122,7 @@ class ConcreteIterator implements Iterator {
 
 ![img.png](example.png)
 
-该例子在 _PictureIterator.java_ 中实现
+该例子在 _[PictureIterator.java](PictureIterator.java)_ 中实现
 
 ## 模式的应用场景
 

@@ -125,7 +125,7 @@ class ObjectStructure {
 
 ![img.png](example.png)
 
-该实例在 _VisitorProducer.java_ 中实现
+该实例在 _[VisitorProducer.java](VisitorProducer.java)_ 中实现
 
 ## 模式的应用场景
 

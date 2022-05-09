@@ -153,7 +153,7 @@ class ConcreteFactory2 implements AbstractFactory {
 
 ![](factory_method_example.png)
 
-该例子在 _AnimalFarmTest.java_ 中实现
+该例子在 _[AnimalFarmTest.java](AnimalFarmTest.java)_ 中实现
 
 ## 抽象工厂模式
 
@@ -226,7 +226,7 @@ class ConcreteFactory1 implements AbstractFactory {
 
 ![](abstract_factory_example.png)
 
-该示例在 _FarmTest.java_ 中实现
+该示例在 _[FarmTest.java](../abstract_factory/FarmTest.java)_ 中实现
 
 ### 抽象工厂模式的应用场景
 

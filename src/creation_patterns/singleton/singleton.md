@@ -85,7 +85,7 @@ public class HungrySingleton {
 
 ![](president.png)
 
-该示例在 *SingletonLazy.java* 中实现
+该示例在 *[SingletonLazy.java](SingletonLazy.java)* 中实现
 
 ## 单例模式的扩展
 

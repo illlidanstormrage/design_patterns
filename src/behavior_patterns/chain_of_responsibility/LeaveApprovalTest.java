@@ -1,4 +1,4 @@
-package behavior_pattern.chain_of_responsibility;
+package behavior_patterns.chain_of_responsibility;
 
 public class LeaveApprovalTest {
     public static void main(String[] args) {

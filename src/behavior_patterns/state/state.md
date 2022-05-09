@@ -94,7 +94,7 @@ class ConcreteStateB extends State {
 
 ![img.png](example.png)
 
-该例子在 _ScoreStateTest.java_ 中实现
+该例子在 _[ScoreStateTest.java](ScoreStateTest.java)_ 中实现
 
 ## 状态模式的应用场景
 

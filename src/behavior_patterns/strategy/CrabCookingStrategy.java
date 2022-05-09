@@ -1,4 +1,4 @@
-package behavior_pattern.strategy;
+package behavior_patterns.strategy;
 
 import java.awt.*;
 import java.awt.event.*;

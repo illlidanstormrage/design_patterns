@@ -88,7 +88,7 @@ class Context {
 
 ![](CrabCookingStrategy.png)
 
-本例子在 _CrabCookingStrategy.java_ 中实现
+本例子在 _[CrabCookingStrategy.java](CrabCookingStrategy.java)_ 中实现
 
 ## 策略模式的应用场景
 

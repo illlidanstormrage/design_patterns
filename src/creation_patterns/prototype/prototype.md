@@ -70,7 +70,7 @@ public class PrototypeTest {
 
 分析：孙悟空拔下猴毛轻轻一吹就变出很多孙悟空，这实际上是用到了原型模式。这里的孙悟空类 MonkeyKing 是具体原型类，而 Java 中的 Cloneable 接口是抽象原型类。
 
-该例子在 _MonkeyKing.java_ 中实现
+该例子在 _[MonkeyKing.java](MonkeyKing.java)_ 中实现
 
 **例2：** 用带原型管理器的原型模式来生成包含“圆”和“正方形”等图形的原型，并计算其面积。
 

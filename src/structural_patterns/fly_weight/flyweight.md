@@ -110,7 +110,7 @@ class FlyweightFactory {
 
 ![](example.png)
 
-该实例在 _ChessBoard.java_ 中实现
+该实例在 _[WeiQi.java](WeiQi.java)_ 中实现
 
 ## 享元模式的应用场景
 

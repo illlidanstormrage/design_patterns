@@ -1,4 +1,4 @@
-package behavior_pattern.command;
+package behavior_patterns.command;
 
 public class BreakfastTest {
     public static void main(String[] args) {

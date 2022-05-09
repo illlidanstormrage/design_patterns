@@ -139,6 +139,6 @@ class Composite implements Component {
 
 ![img.png](example.png)
 
-本实例在 _ShoppingTest.java_ 中实现
+本实例在 _[ShoppingTest.java](ShoppingTest.java)_ 中实现
 
 

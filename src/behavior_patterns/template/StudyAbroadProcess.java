@@ -1,4 +1,4 @@
-package behavior_pattern.template;
+package behavior_patterns.template;
 
 public class StudyAbroadProcess {
     public static void main(String[] args) {

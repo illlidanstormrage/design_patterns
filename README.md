@@ -240,30 +240,30 @@ UML 建模的核心是模型，模型是现实的简化、真实系统的抽象�
 # TODO
 
 **创建型模式**
-- [x] 单例模式
-- [x] 原型模式
-- [x] 工厂方法
-- [x] 抽象工厂
-- [x] 建造者
+- [x] [单例模式](src/creation_patterns/singleton/singleton.md)
+- [x] [原型模式](src/creation_patterns/prototype/prototype.md)
+- [x] [工厂方法](src/creation_patterns/factory_method/factory.md)
+- [x] [抽象工厂](src/creation_patterns/factory_method/factory.md)
+- [x] [建造者](src/creation_patterns/builder/builder.md)
 
 **结构型模式**
-- [x] 代理模式
-- [x] 适配器模式
-- [x] 桥接模式
-- [x] 装饰模式
-- [x] 外观模式
-- [x] 享元模式
-- [x] 组合模式
+- [x] [代理模式](src/structural_patterns/proxy/proxy.md)
+- [x] [适配器模式](src/structural_patterns/adapter/adapter.md)
+- [x] [桥接模式](src/structural_patterns/bridge/bridge.md)
+- [x] [装饰模式](src/structural_patterns/decorator/decorator.md)
+- [x] [外观模式](src/structural_patterns/facade/facade.md)
+- [x] [享元模式](src/structural_patterns/fly_weight/flyweight.md)
+- [x] [组合模式](src/structural_patterns/composite/composite.md)
 
 **行为模式**
-- [x] 模板方法
-- [x] 策略模式
-- [x] 命令模式
-- [x] 职责链模式
-- [ ] 状态模式
-- [ ] 观察者模式
-- [ ] 中介者模式
-- [ ] 迭代器模式
-- [ ] 访问者模式
-- [ ] 备忘录模式
-- [ ] 解释器模式
+- [x] [模板方法](src/behavior_patterns/template/template.md)
+- [x] [策略模式](src/behavior_patterns/strategy/strategy.md)
+- [x] [命令模式](src/behavior_patterns/command/command.md)
+- [x] [职责链模式](src/behavior_patterns/chain_of_responsibility/chain_of_responsibility.md)
+- [ ] [状态模式](src/behavior_patterns/state/state.md)
+- [ ] [观察者模式](src/behavior_patterns/observer/observer.md)
+- [ ] [中介者模式](src/behavior_patterns/mediator/mediator.md)
+- [ ] [迭代器模式](src/behavior_patterns/iterator/iterator.md)
+- [ ] [访问者模式](src/behavior_patterns/visitor/visitor.md)
+- [ ] [备忘录模式](src/behavior_patterns/memento/memento.md)
+- [ ] [解释器模式](src/behavior_patterns/interpreter/interpreter.md)

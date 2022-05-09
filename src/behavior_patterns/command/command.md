@@ -87,7 +87,7 @@ class Receiver {
 * 再定义其子类肠粉类（ChangFen）、馄饨类（HunTun）和河粉类（HeFen），它们是具体命令类，实现早餐类的 cooking() 方法，但它们不会具体做，而是交给具体的厨师去做；
 * 具体厨师类有肠粉厨师（ChangFenChef）、馄饨厨师（HunTunChef）和河粉厨师（HeFenChef），他们是命令的接收者。
 
-该例子在 _BreakfastTest.java_ 中实现
+该例子在 _[BreakfastTest.java](BreakfastTest.java)_ 中实现
 
 ## 命令模式的应用场景
 

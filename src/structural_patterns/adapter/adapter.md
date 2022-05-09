@@ -115,7 +115,7 @@ public class ObjectAdapterTest
 
 ![](example.png)
 
-该例子在 _MotorAdapterTest.java_ 中实现
+该例子在 _[MotorAdapterTest.java](MotorAdapterTest.java)_ 中实现
 
 ### 模式的应用场景
 适配器模式（Adapter）通常适用于以下场景。

@@ -80,7 +80,7 @@ class Proxy implements Subject {
 
 ![](WySpecialtyProxy.png)
 
-该方法在 _WySpecialtyProxy.java_ 中实现
+该方法在 _[WySpecialtyProxy.java](WySpecialtyProxy.java)_ 中实现
 
 ## 代理模式的应用场景
 

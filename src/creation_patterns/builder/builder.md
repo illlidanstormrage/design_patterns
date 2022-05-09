@@ -117,7 +117,7 @@ public class Client {
 
 ![](ParlourDecorator.png)
 
-在 _ParlourDecorator.java_ 中完成该示例
+在 _[ParlourDecorator.java](ParlourDecorator.java)_ 中完成该示例
 
 ## 应用场景
 

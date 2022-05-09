@@ -113,7 +113,7 @@ class ConcreteColleague2 extends Colleague {
 
 ![img.png](example.png)
 
-该实例在 _DatingPlatform.java_ 中实现
+该实例在 _[DatingPlatform.java](DatingPlatform.java)_ 中实现
 
 ## 模式的应用场景
 
